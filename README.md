@@ -29,6 +29,6 @@ And if you want to get crazy...
 
 ```
 % nato 'w@lRu$Es {ar3} N1\c#!'
-w@lRu$Es {are} N1\c#!
+w@lRu$Es {ar3} N1\c#!
 whiskey at-sign lima UPPERCASE ROMEO uniform dollar-sign UPPERCASE ECHO sierra space left-curly-brace alpha romeo tree right-curly-brace space UPPERCASE NOVEMBER one backslash charlie octothorpe exclamation-point
 ```
